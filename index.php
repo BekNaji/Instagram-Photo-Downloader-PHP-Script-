@@ -95,7 +95,7 @@ if($_GET['code']){
 	
 }
 
-else( ?> 
+else{ ?> 
 
 <!doctype html>
 <html>
@@ -105,7 +105,7 @@ else( ?>
 </html>
 
 <?php
-
+    }
 ?>
 
  
